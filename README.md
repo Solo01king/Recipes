@@ -21,7 +21,9 @@ This project is a basic HTML website containing links to different recipe pages.
 Recipes/
 ├── index.html
 ├── recipes/
-│   └── jollof-rice.html
+│   └── lasagna.html
+│   └── pizza.html
+│   └── pie.html
 └── README.md
 ```
 
